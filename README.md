@@ -1,6 +1,9 @@
 # XZ-Key
 go语言全局按键监听事件绑定（需要root运行）
 
+# 依赖
+[keylogger](https://github.com/MarinX/keylogger)
+
 # 案例
 ``` golang
 ...
